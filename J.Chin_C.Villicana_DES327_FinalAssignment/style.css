@@ -1,0 +1,199 @@
+ body {
+     font-family: 'Cantarell', sans-serif;
+     font-size: 14pt;
+     color: #000;
+ }
+
+
+
+ h1 {
+
+     font-family: 'Kanit', sans-serif;
+     font-size: 50pt;
+     color: white;
+ }
+
+
+ header {
+
+     font-family: 'Kanit', sans-serif;
+     font-size: 20pt;
+     color: white;
+     background-color: #C61A23;
+     text-align: center;
+     margin: 0pX;
+     padding: 50px;
+ }
+
+
+ footer {
+     background-color: #707649;
+     font-size: 34pt;
+     font-family: 'Kanit', sans-serif;
+     padding: 10px;
+     align-content: center;
+     text-align: right;
+ }
+
+
+ main {
+     display: grid;
+     grid-template-columns: auto auto;
+     margin-top: 401px;
+     margin-bottom: 0px;
+ }
+
+ #splash1 {
+
+     background-image: url(images/drinks%205.jpg);
+     height: 600px;
+     width: cover;
+     background-size: 100%;
+     display: grid;
+     grid-column-start: 1;
+     grid-column-end: 3;
+ }
+
+ #logo {
+     padding: 20px;
+     margin: 10px;
+     height: 200px;
+     width: 200px;
+
+ }
+
+ #splash2 {
+
+     background-image: url(images/drinks%206.jpg);
+     height: auto;
+     width: 100%;
+     background-size: cover;
+
+
+
+ }
+
+ #order {
+
+     background-image: url(images/drinks%204.jpg);
+     height: 900px;
+     width: auto;
+     background-size: cover;
+     text-align: center;
+     font-family: 'Kanit', sans-serif;
+     font-size: 60px;
+     color: white;
+ }
+
+ #splash3 {
+
+     background-image: url(images/drinks%203.jpg);
+     height: auto;
+     width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+
+ #splash4 {
+
+     background-image: url(images/o.jpg);
+     height: auto;
+     width: 100%;
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+
+ #quote {
+     text-align: center;
+     font-family: 'Kanit', sans-serif;
+     font-size: 90px;
+     color: black;
+     line-height: 90px;
+     padding-top: 400px;
+     padding-left: 60px;
+     padding-right: 60px;
+     width: 800px;
+
+ }
+
+ #foota {
+     align-content: center;
+     padding: 10px;
+     height: 96px;
+     width: 96px;
+     text-align: left;
+ }
+
+ #images {
+     padding: 30px;
+     font-family: 'Kanit', sans-serif;
+     font-size: 28pt;
+     align-content: right;
+     margin: 100px;
+ }
+
+ #splash5 {
+
+     background-image: url(images/drinks%202.jpg);
+     height: 900px;
+     width: auto;
+     background-size: cover;
+
+ }
+
+ #splash6 {
+
+     background-image: url(images/door-dash.png);
+     height: 600px;
+     background-size: cover;
+     display: grid;
+     grid-column-start: 1;
+     grid-column-end: 3;
+
+ }
+
+ #splash7 {
+
+     background-image: url(images/UE-FB-Post.png);
+     height: 600px;
+     background-size: cover;
+     display: grid;
+     grid-column-start: 1;
+     grid-column-end: 3;
+ }
+
+ #splash8 {
+
+     background-image: url(images/opengraph_image_gh.jpg);
+     height: 600px;
+     background-size: cover;
+     display: grid;
+     grid-column-start: 1;
+     grid-column-end: 3;
+ }
+
+ #splash9 {
+
+     background-image: url(images/Capture.JPG);
+     height: 600px;
+     background-size: cover;
+     display: grid;
+     grid-column-start: 1;
+     grid-column-end: 3;
+ }
+
+ #logo {
+
+     padding-left: 730px;
+ }
+
+ #header {
+
+     font-family: 'Kanit', sans-serif;
+     font-size: 40pt;
+     color: white;
+     background-color: #C61A23;
+     text-align: center;
+     margin: 0pX;
+     padding: 0px;
+ }

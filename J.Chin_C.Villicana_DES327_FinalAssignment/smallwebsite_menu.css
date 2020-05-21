@@ -1,0 +1,158 @@
+header {
+    font-family: 'Kanit', sans-serif;
+    font-size: 20pt;
+    color: white;
+    background-color: #C61A23;
+    text-align: center;
+    margin: 0pX;
+    padding: 50px;
+}
+
+h1 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 100pt;
+
+}
+
+h2 {
+    font-size: 40pt;
+    background-color: #C61A23;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+}
+
+p {
+    font-size: 40pt;
+    text-align: center;
+    align-content: center;
+    padding: 10px;
+}
+
+main {
+    font-family: 'Kanit', sans-serif;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+nav {
+    font-size: 14pt;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #99A261;
+    color: white;
+    padding: 0px;
+    margin-top: 0px;
+    font-size: 20pt;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+footer {
+    background-color: #707649;
+    font-size: 34pt;
+    font-family: 'Kanit', sans-serif;
+    padding: 10px;
+    align-content: center;
+    text-align: right;
+}
+
+
+
+button {
+    height: 200px;
+    width: 300px;
+    background-color: #C61A23;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 30pt;
+
+}
+
+#1 {
+    height: 500px;
+    width: 100px;
+    background-color: #C61A23;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    font-size: 20pt;
+    margin-top: 10px;
+    padding: 0px;
+    margin-left: 300px;
+
+}
+
+form {
+    font-size: 40pt;
+    align-content: center;
+}
+
+input {
+    font-size: 40pt;
+    align-content: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+#images {
+    padding: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 28pt;
+    align-content: right;
+    margin: 100px;
+}
+
+#imagesize {
+    height: 500px;
+    width: 400px;
+    padding: 30px;
+}
+
+#header {
+
+    font-family: 'Kanit', sans-serif;
+    font-size: 40pt;
+    color: white;
+    background-color: #C61A23;
+    text-align: center;
+    margin: 0pX;
+    padding: 0px;
+}
+
+#imageheader {
+    height: 200px;
+    width: 200px;
+}
+
+#buttonalign {
+    margin-left: 90px;
+}
+
+#foota {
+    align-content: left;
+    padding: 10px;
+    height: 96px;
+    width: 96px;
+    text-align: left;
+}
+
+#footertext {
+    align-content: left;
+
+}
+
+#drinksize {
+    padding: 50px;
+    height: 1000px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
